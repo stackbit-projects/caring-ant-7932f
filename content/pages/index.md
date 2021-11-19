@@ -36,7 +36,7 @@ sections:
           - label: View Projects
             url: /projects
             style: link
-      - title: Style Guide
+      - title: TheShadows
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
