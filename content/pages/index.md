@@ -46,7 +46,7 @@ sections:
             style: link
   - section_id: text-img
     type: section_content
-    image: images/jamstack.svg
+    image: /images/Check2.jpg
     image_position: left
     title: Buying a Shadow
     content: >
