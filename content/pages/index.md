@@ -42,7 +42,7 @@ sections:
           projects, The Shadows Projects.
         actions:
           - label: Shadow List
-            url: /style-guide
+            url: /Shadow List
             style: link
   - section_id: text-img
     type: section_content
