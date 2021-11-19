@@ -15,10 +15,14 @@ sections:
     col_number: three
     grid_items:
       - title: Little Story
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >
+          The Shadows were created long time ago when the world needed the most.
+          These Shadows are here again to help people in need. Each and one of
+          them has a certain Ability that is able to defeat those that are doing
+          bad things. Even if they have no face and some might look evil, they
+          are working from behind to help the vulnerable people. Do not be
+          afraid of their appearance. The creator made them with no face as they
+          don't need to be revered as they are ment to do good.
         actions:
           - label: Get Started
             url: /docs
