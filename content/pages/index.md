@@ -41,7 +41,7 @@ sections:
           Check out how many we are and consider being a part of our great
           projects, The Shadows Projects.
         actions:
-          - label: Learn More
+          - label: Shadow List
             url: /style-guide
             style: link
   - section_id: text-img
