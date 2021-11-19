@@ -58,7 +58,7 @@ sections:
         url: /docs/getting-started
         style: primary
       - label: Projects
-        url: /docs/getting-started
+        url: /Projects
         style: secondary
   - section_id: text-no-img
     type: section_content
