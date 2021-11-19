@@ -9,10 +9,7 @@ sections:
       We are glad to have you here. This means that you want to be part of the
       Shadows and help those in need with a little contribution. We help others
       including you! 
-    actions:
-      - label: Get Started
-        url: /docs
-        style: primary
+    actions: []
   - section_id: features
     type: section_grid
     col_number: three
