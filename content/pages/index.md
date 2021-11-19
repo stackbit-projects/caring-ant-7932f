@@ -30,7 +30,7 @@ sections:
         content: >
           First, we are trying to help those in need every month depending on
           the contribution and second to help our Shadows as well. We have some
-          coming soon projects so you can enjoy being a part of the Shadows.
+          coming soon projects so you can enjoy by being a part of the Shadows.
         actions:
           - label: View Projects
             url: /projects
