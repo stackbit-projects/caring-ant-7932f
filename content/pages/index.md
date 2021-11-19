@@ -57,7 +57,7 @@ sections:
       - label: View Demo
         url: /docs/getting-started
         style: primary
-      - label: Get Started
+      - label: Projects
         url: /docs/getting-started
         style: secondary
   - section_id: text-no-img
