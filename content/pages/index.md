@@ -33,7 +33,7 @@ sections:
           the contribution and second to help our Shadows as well. We have some
           coming soon projects so you can enjoy being a part of the Shadows.
         actions:
-          - label: View Posts
+          - label: View Projects
             url: /blog
             style: link
       - title: Style Guide
