@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: section_hero
     title: NFTheShadows
-    image: /images/Banner5.jpg
+    image: /images/Banner5-9da5fee7.jpg
     content: >
       We are glad to have you here. This means that you want to be part of the
       Shadows and help those in need with a little contribution. We help others
