@@ -5,9 +5,10 @@ sections:
     type: section_hero
     title: NFTheShadows
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      We are glad to have you here. This means that you want to be part of the
+      Shadows and help those in need with a little contribution. We help others
+      including you! 
     actions:
       - label: Get Started
         url: /docs
