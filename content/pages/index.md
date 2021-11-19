@@ -34,7 +34,7 @@ sections:
           coming soon projects so you can enjoy being a part of the Shadows.
         actions:
           - label: View Projects
-            url: /blog
+            url: /projects
             style: link
       - title: Style Guide
         content: >-
