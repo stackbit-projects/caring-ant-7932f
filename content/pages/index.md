@@ -47,7 +47,7 @@ sections:
   - section_id: text-img
     type: section_content
     image: /images/Check2.jpg
-    image_position: right
+    image_position: left
     title: Buying a Shadow
     content: >
       By buying a Shadow, you will be part of our team and you can feel good by
