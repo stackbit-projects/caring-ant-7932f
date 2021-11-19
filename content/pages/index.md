@@ -28,9 +28,10 @@ sections:
             url: /docs
             style: link
       - title: What we do?
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          First, we are trying to help those in need every month depending on
+          the contribution and second to help our Shadows as well. We have some
+          coming soon projects so you can enjoy being a part of the Shadows.
         actions:
           - label: View Posts
             url: /blog
