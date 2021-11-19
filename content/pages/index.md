@@ -37,10 +37,9 @@ sections:
             url: /projects
             style: link
       - title: TheShadows
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >
+          Check out how many we are and consider being a part of our great
+          projects, The Shadows Projects.
         actions:
           - label: Learn More
             url: /style-guide
