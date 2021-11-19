@@ -1,8 +1,7 @@
 ---
 title: Home
 sections:
-  - section_id: hero
-    type: section_hero
+  - type: section_hero
     title: NFTheShadows
     image: /images/Banner5.jpg
     content: >
